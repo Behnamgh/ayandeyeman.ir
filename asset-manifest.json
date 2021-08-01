@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ayandeyeman.ir/static/css/main.a617e044.chunk.css",
+    "main.js": "/ayandeyeman.ir/static/js/main.d3b32783.chunk.js",
+    "main.js.map": "/ayandeyeman.ir/static/js/main.d3b32783.chunk.js.map",
+    "runtime-main.js": "/ayandeyeman.ir/static/js/runtime-main.5efc7ffd.js",
+    "runtime-main.js.map": "/ayandeyeman.ir/static/js/runtime-main.5efc7ffd.js.map",
+    "static/js/2.372f5cbf.chunk.js": "/ayandeyeman.ir/static/js/2.372f5cbf.chunk.js",
+    "static/js/2.372f5cbf.chunk.js.map": "/ayandeyeman.ir/static/js/2.372f5cbf.chunk.js.map",
+    "static/js/3.0b1b1f7a.chunk.js": "/ayandeyeman.ir/static/js/3.0b1b1f7a.chunk.js",
+    "static/js/3.0b1b1f7a.chunk.js.map": "/ayandeyeman.ir/static/js/3.0b1b1f7a.chunk.js.map",
+    "index.html": "/ayandeyeman.ir/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/ayandeyeman.ir/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.372f5cbf.chunk.js.LICENSE.txt": "/ayandeyeman.ir/static/js/2.372f5cbf.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ayandeyeman.ir/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5efc7ffd.js",
+    "static/js/2.372f5cbf.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d3b32783.chunk.js"
+  ]
+}
