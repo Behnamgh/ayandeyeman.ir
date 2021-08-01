@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ayandeyeman.ir/static/css/main.a617e044.chunk.css",
-    "main.js": "/ayandeyeman.ir/static/js/main.d3b32783.chunk.js",
-    "main.js.map": "/ayandeyeman.ir/static/js/main.d3b32783.chunk.js.map",
+    "main.js": "/ayandeyeman.ir/static/js/main.719d4083.chunk.js",
+    "main.js.map": "/ayandeyeman.ir/static/js/main.719d4083.chunk.js.map",
     "runtime-main.js": "/ayandeyeman.ir/static/js/runtime-main.5efc7ffd.js",
     "runtime-main.js.map": "/ayandeyeman.ir/static/js/runtime-main.5efc7ffd.js.map",
     "static/js/2.372f5cbf.chunk.js": "/ayandeyeman.ir/static/js/2.372f5cbf.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.5efc7ffd.js",
     "static/js/2.372f5cbf.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.d3b32783.chunk.js"
+    "static/js/main.719d4083.chunk.js"
   ]
 }
